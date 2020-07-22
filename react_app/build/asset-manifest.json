@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c52709c.chunk.css",
+    "main.js": "/static/js/main.9be97178.chunk.js",
+    "main.js.map": "/static/js/main.9be97178.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a544320e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a544320e.js.map",
+    "static/js/2.c3b04077.chunk.js": "/static/js/2.c3b04077.chunk.js",
+    "static/js/2.c3b04077.chunk.js.map": "/static/js/2.c3b04077.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3320bacc8447b3fe8916f43636c5d899.js": "/precache-manifest.3320bacc8447b3fe8916f43636c5d899.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6c52709c.chunk.css.map": "/static/css/main.6c52709c.chunk.css.map",
+    "static/js/2.c3b04077.chunk.js.LICENSE.txt": "/static/js/2.c3b04077.chunk.js.LICENSE.txt",
+    "static/media/Landing.css": "/static/media/wallpaperflare.com_wallpaper.26f84bcc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a544320e.js",
+    "static/js/2.c3b04077.chunk.js",
+    "static/css/main.6c52709c.chunk.css",
+    "static/js/main.9be97178.chunk.js"
+  ]
+}

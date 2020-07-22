@@ -1,0 +1,72 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: Montserrat, sans-serif;
+}
+
+body{
+    background-color: white;
+}   
+
+.App{
+    text-align: center;
+}
+
+/*NAVBAR*/
+
+.navbar{
+    position: fixed;
+    text-align: left;
+    left:0;
+    top:0; 
+    height: 100vh;
+    width: 60px;
+    background: rgb(37, 37, 37);
+    display: flex;
+    flex-direction : column;    
+    transition: 0.5s;
+}
+.navbar-icon{
+    margin : 15px 0;
+    color: rgb(204, 198, 198); 
+    margin-left : 18px;
+}
+.navbar-icon:hover{
+    color: white
+}
+
+
+.course-list{
+    background-color: rgb(47, 44, 58);;
+    margin:10% 100px 10% 200px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.course-item{
+    width: 15%;
+    margin: 30px;
+    padding: 50px 20px;
+    background-color: antiquewhite;
+    text-align: center;
+    overflow-wrap: break-word;
+    border-radius: 5px;
+    box-shadow: 1px 1px 2px rgb(85, 81, 81);
+}
+
+.course-item .title{
+font-weight: 900;
+}
+
+.course-item .link{
+
+}
+
+.course-item .author{
+
+}
+
+.course-item .category{
+
+}
+
